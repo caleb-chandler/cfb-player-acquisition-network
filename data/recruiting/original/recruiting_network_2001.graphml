@@ -1,0 +1,2368 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d13" for="edge" attr.name="weight" attr.type="long"/>
+<key id="d12" for="edge" attr.name="recruit_types" attr.type="string"/>
+<key id="d11" for="edge" attr.name="stars" attr.type="string"/>
+<key id="d10" for="edge" attr.name="ratings" attr.type="string"/>
+<key id="d9" for="edge" attr.name="positions" attr.type="string"/>
+<key id="d8" for="edge" attr.name="players" attr.type="string"/>
+<key id="d7" for="node" attr.name="state" attr.type="string"/>
+<key id="d6" for="node" attr.name="city" attr.type="string"/>
+<key id="d5" for="node" attr.name="longitude" attr.type="double"/>
+<key id="d4" for="node" attr.name="latitude" attr.type="double"/>
+<key id="d3" for="node" attr.name="conference" attr.type="string"/>
+<key id="d2" for="node" attr.name="classification" attr.type="string"/>
+<key id="d1" for="node" attr.name="type" attr.type="string"/>
+<key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
+<graph edgedefault="undirected"><node id="Virginia Tech">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Springfield, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.9306677</data>
+  <data key="d5">-75.3201879</data>
+  <data key="d6">Springfield</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Alabama">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Rainbow City, AL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.897166</data>
+  <data key="d5">-86.10254028218075</data>
+  <data key="d6">Rainbow City</data>
+  <data key="d7">AL</data>
+</node>
+<node id="Clemson">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Union, SC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.7151939</data>
+  <data key="d5">-81.6237462</data>
+  <data key="d6">Union</data>
+  <data key="d7">SC</data>
+</node>
+<node id="Washington">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Lakewood, WA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">47.1714085</data>
+  <data key="d5">-122.5164</data>
+  <data key="d6">Lakewood</data>
+  <data key="d7">WA</data>
+</node>
+<node id="USC">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Hacienda Heights, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.62928805</data>
+  <data key="d5">-120.6571031588404</data>
+  <data key="d6">Hacienda Heights</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Oklahoma">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Killeen, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.1171441</data>
+  <data key="d5">-97.727796</data>
+  <data key="d6">Killeen</data>
+  <data key="d7">TX</data>
+</node>
+<node id="LSU">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Baton Rouge, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">30.4459596</data>
+  <data key="d5">-91.18738</data>
+  <data key="d6">Baton Rouge</data>
+  <data key="d7">LA</data>
+</node>
+<node id="New Orleans, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">29.9499323</data>
+  <data key="d5">-90.0701156</data>
+  <data key="d6">New Orleans</data>
+  <data key="d7">LA</data>
+</node>
+<node id="Tennessee">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Tucker, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.8532701</data>
+  <data key="d5">-84.2200729</data>
+  <data key="d6">Tucker</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Stanford">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="La Quinta, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.66365425</data>
+  <data key="d5">-116.27770251129584</data>
+  <data key="d6">La Quinta</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Miami">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Brooklyn, NY">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.6501038</data>
+  <data key="d5">-73.9495823</data>
+  <data key="d6">Brooklyn</data>
+  <data key="d7">NY</data>
+</node>
+<node id="Michigan">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Portage, MI">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">42.2011538</data>
+  <data key="d5">-85.5800022</data>
+  <data key="d6">Portage</data>
+  <data key="d7">MI</data>
+</node>
+<node id="Hemphill, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.3407403</data>
+  <data key="d5">-93.846852</data>
+  <data key="d6">Hemphill</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Arkansas">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Atlanta, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.7490987</data>
+  <data key="d5">-84.3901849</data>
+  <data key="d6">Atlanta</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Auburn">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Attalla, AL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.0217639</data>
+  <data key="d5">-86.0885851</data>
+  <data key="d6">Attalla</data>
+  <data key="d7">AL</data>
+</node>
+<node id="Florida State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Diamond Bar, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.0286226</data>
+  <data key="d5">-117.8103367</data>
+  <data key="d6">Diamond Bar</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Saint Paul, MN">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">44.9504037</data>
+  <data key="d5">-93.1015026</data>
+  <data key="d6">Saint Paul</data>
+  <data key="d7">MN</data>
+</node>
+<node id="Georgia">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Ole Miss">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Madison, MS">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.4618086</data>
+  <data key="d5">-90.1153638</data>
+  <data key="d6">Madison</data>
+  <data key="d7">MS</data>
+</node>
+<node id="Detroit, MI">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">42.3315509</data>
+  <data key="d5">-83.0466403</data>
+  <data key="d6">Detroit</data>
+  <data key="d7">MI</data>
+</node>
+<node id="Lexington, KY">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">38.0464066</data>
+  <data key="d5">-84.4970393</data>
+  <data key="d6">Lexington</data>
+  <data key="d7">KY</data>
+</node>
+<node id="Syracuse">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="McKeesport, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.3478472</data>
+  <data key="d5">-79.864215</data>
+  <data key="d6">McKeesport</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Concord, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.9768525</data>
+  <data key="d5">-122.0335624</data>
+  <data key="d6">Concord</data>
+  <data key="d7">CA</data>
+</node>
+<node id="UCLA">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Los Angeles, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.0536909</data>
+  <data key="d5">-118.2427666</data>
+  <data key="d6">Los Angeles</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Wisconsin">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Hamden, CT">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.3959287</data>
+  <data key="d5">-72.8968716</data>
+  <data key="d6">Hamden</data>
+  <data key="d7">CT</data>
+</node>
+<node id="Notre Dame">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Eden Prairie, MN">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">44.8546856</data>
+  <data key="d5">-93.470786</data>
+  <data key="d6">Eden Prairie</data>
+  <data key="d7">MN</data>
+</node>
+<node id="Clarendon, AR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.6931517</data>
+  <data key="d5">-91.313737</data>
+  <data key="d6">Clarendon</data>
+  <data key="d7">AR</data>
+</node>
+<node id="Virginia">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Richmond, VA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.5385087</data>
+  <data key="d5">-77.43428</data>
+  <data key="d6">Richmond</data>
+  <data key="d7">VA</data>
+</node>
+<node id="Texas A&amp;M">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Jacksonville, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.963778</data>
+  <data key="d5">-95.2705042</data>
+  <data key="d6">Jacksonville</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Texas">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Midland, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.9973662</data>
+  <data key="d5">-102.0779482</data>
+  <data key="d6">Midland</data>
+  <data key="d7">TX</data>
+</node>
+<node id="California">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Albany, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.88687</data>
+  <data key="d5">-122.2977475</data>
+  <data key="d6">Albany</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Sharon, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.2331116</data>
+  <data key="d5">-80.4934035</data>
+  <data key="d6">Sharon</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Iowa">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Atlantic, IA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.4036007</data>
+  <data key="d5">-95.0138776</data>
+  <data key="d6">Atlantic</data>
+  <data key="d7">IA</data>
+</node>
+<node id="Jacksonville, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">30.3321838</data>
+  <data key="d5">-81.655651</data>
+  <data key="d6">Jacksonville</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Villa Park, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.8891319</data>
+  <data key="d5">-87.9774854</data>
+  <data key="d6">Villa Park</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Lake City, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">30.1896756</data>
+  <data key="d5">-82.6392899</data>
+  <data key="d6">Lake City</data>
+  <data key="d7">FL</data>
+</node>
+<node id="West Monroe, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.5184775</data>
+  <data key="d5">-92.1476353</data>
+  <data key="d6">West Monroe</data>
+  <data key="d7">LA</data>
+</node>
+<node id="Fulton, MS">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.2739933</data>
+  <data key="d5">-88.4092133</data>
+  <data key="d6">Fulton</data>
+  <data key="d7">MS</data>
+</node>
+<node id="Columbia, SC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.0007493</data>
+  <data key="d5">-81.0343313</data>
+  <data key="d6">Columbia</data>
+  <data key="d7">SC</data>
+</node>
+<node id="Marietta, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.9528472</data>
+  <data key="d5">-84.5496148</data>
+  <data key="d6">Marietta</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Tyrone, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.4713249</data>
+  <data key="d5">-84.5972005</data>
+  <data key="d6">Tyrone</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Cleveland, OH">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.5051613</data>
+  <data key="d5">-81.6934446</data>
+  <data key="d6">Cleveland</data>
+  <data key="d7">OH</data>
+</node>
+<node id="Tallahassee, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">30.4380832</data>
+  <data key="d5">-84.2809332</data>
+  <data key="d6">Tallahassee</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Charlotte, NC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.2272</data>
+  <data key="d5">-80.843083</data>
+  <data key="d6">Charlotte</data>
+  <data key="d7">NC</data>
+</node>
+<node id="Oregon State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Scappoose, OR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">45.7572997</data>
+  <data key="d5">-122.8743589</data>
+  <data key="d6">Scappoose</data>
+  <data key="d7">OR</data>
+</node>
+<node id="Boca Raton, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">26.3586885</data>
+  <data key="d5">-80.0830984</data>
+  <data key="d6">Boca Raton</data>
+  <data key="d7">FL</data>
+</node>
+<node id="West Memphis, AR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.1464797</data>
+  <data key="d5">-90.1845388</data>
+  <data key="d6">West Memphis</data>
+  <data key="d7">AR</data>
+</node>
+<node id="Allentown, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.6022059</data>
+  <data key="d5">-75.4712794</data>
+  <data key="d6">Allentown</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Ohio State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Tampa, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">27.9477595</data>
+  <data key="d5">-82.458444</data>
+  <data key="d6">Tampa</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Waycross, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.2135511</data>
+  <data key="d5">-82.3540178</data>
+  <data key="d6">Waycross</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Bradenton, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">27.4989278</data>
+  <data key="d5">-82.5748194</data>
+  <data key="d6">Bradenton</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Homestead, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">25.4718946</data>
+  <data key="d5">-80.4759905</data>
+  <data key="d6">Homestead</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Newark, DE">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.6852191</data>
+  <data key="d5">-75.7508289</data>
+  <data key="d6">Newark</data>
+  <data key="d7">DE</data>
+</node>
+<node id="Chicago, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.8755616</data>
+  <data key="d5">-87.6244212</data>
+  <data key="d6">Chicago</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Santa Ana, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.7494951</data>
+  <data key="d5">-117.8732213</data>
+  <data key="d6">Santa Ana</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Kansas State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Compton, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.894927</data>
+  <data key="d5">-118.226624</data>
+  <data key="d6">Compton</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Ironton, OH">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">38.5367471</data>
+  <data key="d5">-82.6829406</data>
+  <data key="d6">Ironton</data>
+  <data key="d7">OH</data>
+</node>
+<node id="Shawnee, OK">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.3272928</data>
+  <data key="d5">-96.9253004</data>
+  <data key="d6">Shawnee</data>
+  <data key="d7">OK</data>
+</node>
+<node id="Waco, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.549333</data>
+  <data key="d5">-97.1466695</data>
+  <data key="d6">Waco</data>
+  <data key="d7">TX</data>
+</node>
+<node id="South Carolina">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Conway, SC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.8360035</data>
+  <data key="d5">-79.0478143</data>
+  <data key="d6">Conway</data>
+  <data key="d7">SC</data>
+</node>
+<node id="Houston, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">29.7589382</data>
+  <data key="d5">-95.3676974</data>
+  <data key="d6">Houston</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Oregon">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Burns, OR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">43.5862607</data>
+  <data key="d5">-119.0541032</data>
+  <data key="d6">Burns</data>
+  <data key="d7">OR</data>
+</node>
+<node id="Lewistown, MT">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">47.0639275</data>
+  <data key="d5">-109.428213</data>
+  <data key="d6">Lewistown</data>
+  <data key="d7">MT</data>
+</node>
+<node id="Missouri">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Coffeyville, KS">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.0372999</data>
+  <data key="d5">-95.6163634</data>
+  <data key="d6">Coffeyville</data>
+  <data key="d7">KS</data>
+</node>
+<node id="Dallas, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.7762719</data>
+  <data key="d5">-96.7968559</data>
+  <data key="d6">Dallas</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Opa Locka, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">25.896733849999997</data>
+  <data key="d5">-80.25949640850294</data>
+  <data key="d6">Opa Locka</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Memphis">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Memphis, TN">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.1490215</data>
+  <data key="d5">-90.0516285</data>
+  <data key="d6">Memphis</data>
+  <data key="d7">TN</data>
+</node>
+<node id="Camden, AR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.5845582</data>
+  <data key="d5">-92.8343294</data>
+  <data key="d6">Camden</data>
+  <data key="d7">AR</data>
+</node>
+<node id="Colorado">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Thornton, CO">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.8695516</data>
+  <data key="d5">-104.9851819</data>
+  <data key="d6">Thornton</data>
+  <data key="d7">CO</data>
+</node>
+<node id="Columbus, OH">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.9622601</data>
+  <data key="d5">-83.0007065</data>
+  <data key="d6">Columbus</data>
+  <data key="d7">OH</data>
+</node>
+<node id="Penn State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Erie, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">42.1294712</data>
+  <data key="d5">-80.0852695</data>
+  <data key="d6">Erie</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Lake Elsinore, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.6680772</data>
+  <data key="d5">-117.3272615</data>
+  <data key="d6">Lake Elsinore</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Chatham, VA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">36.8256943</data>
+  <data key="d5">-79.3980806</data>
+  <data key="d6">Chatham</data>
+  <data key="d7">VA</data>
+</node>
+<node id="Shreveport, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.5221828</data>
+  <data key="d5">-93.7651944</data>
+  <data key="d6">Shreveport</data>
+  <data key="d7">LA</data>
+</node>
+<node id="Las Vegas, NV">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">36.1672559</data>
+  <data key="d5">-115.1485163</data>
+  <data key="d6">Las Vegas</data>
+  <data key="d7">NV</data>
+</node>
+<node id="North Carolina">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Asheboro, NC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.7079146</data>
+  <data key="d5">-79.8136446</data>
+  <data key="d6">Asheboro</data>
+  <data key="d7">NC</data>
+</node>
+<node id="Mart, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.5423911</data>
+  <data key="d5">-96.8336015</data>
+  <data key="d6">Mart</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Clairton, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.2922938</data>
+  <data key="d5">-79.8817181</data>
+  <data key="d6">Clairton</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Wheaton, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.8646959</data>
+  <data key="d5">-88.1101709</data>
+  <data key="d6">Wheaton</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Ellisville, MS">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">31.6047734</data>
+  <data key="d5">-89.195641</data>
+  <data key="d6">Ellisville</data>
+  <data key="d7">MS</data>
+</node>
+<node id="Sheridan, AR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.3070406</data>
+  <data key="d5">-92.4012654</data>
+  <data key="d6">Sheridan</data>
+  <data key="d7">AR</data>
+</node>
+<node id="Virginia Beach, VA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">36.8529841</data>
+  <data key="d5">-75.9774183</data>
+  <data key="d6">Virginia Beach</data>
+  <data key="d7">VA</data>
+</node>
+<node id="Louisville, KY">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">38.2542376</data>
+  <data key="d5">-85.759407</data>
+  <data key="d6">Louisville</data>
+  <data key="d7">KY</data>
+</node>
+<node id="Belle Vernon, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.1250725</data>
+  <data key="d5">-79.8664356</data>
+  <data key="d6">Belle Vernon</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Texarkana, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.44628645</data>
+  <data key="d5">-94.07638067493534</data>
+  <data key="d6">Texarkana</data>
+  <data key="d7">TX</data>
+</node>
+<node id="New Lenox, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.5119761</data>
+  <data key="d5">-87.9656098</data>
+  <data key="d6">New Lenox</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Miami, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">25.7742658</data>
+  <data key="d5">-80.1936589</data>
+  <data key="d6">Miami</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Marrero, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">29.8993723</data>
+  <data key="d5">-90.1003506</data>
+  <data key="d6">Marrero</data>
+  <data key="d7">LA</data>
+</node>
+<node id="Hampton, VA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.0520315</data>
+  <data key="d5">-76.2856365</data>
+  <data key="d6">Hampton</data>
+  <data key="d7">VA</data>
+</node>
+<node id="Pittsburgh">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Minneapolis, MN">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">44.9772995</data>
+  <data key="d5">-93.2654692</data>
+  <data key="d6">Minneapolis</data>
+  <data key="d7">MN</data>
+</node>
+<node id="Monroe, LA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.5093109</data>
+  <data key="d5">-92.1193012</data>
+  <data key="d6">Monroe</data>
+  <data key="d7">LA</data>
+</node>
+<node id="Nebraska">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Omaha, NE">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.2587459</data>
+  <data key="d5">-95.9383758</data>
+  <data key="d6">Omaha</data>
+  <data key="d7">NE</data>
+</node>
+<node id="Madisonville, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">30.9498688</data>
+  <data key="d5">-95.9127773</data>
+  <data key="d6">Madisonville</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Harrisburg, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.2663107</data>
+  <data key="d5">-76.8861122</data>
+  <data key="d6">Harrisburg</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Illinois">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Urbana, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.1117174</data>
+  <data key="d5">-88.207301</data>
+  <data key="d6">Urbana</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Purdue">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Des Moines, IA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">41.5910641</data>
+  <data key="d5">-93.6037149</data>
+  <data key="d6">Des Moines</data>
+  <data key="d7">IA</data>
+</node>
+<node id="Dayton, OH">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.7589478</data>
+  <data key="d5">-84.1916069</data>
+  <data key="d6">Dayton</data>
+  <data key="d7">OH</data>
+</node>
+<node id="Williamsburg, VA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">37.2708788</data>
+  <data key="d5">-76.7074042</data>
+  <data key="d6">Williamsburg</data>
+  <data key="d7">VA</data>
+</node>
+<node id="Canton, OH">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.7989522</data>
+  <data key="d5">-81.3784445</data>
+  <data key="d6">Canton</data>
+  <data key="d7">OH</data>
+</node>
+<node id="Arizona">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Tolleson, AZ">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.4500497</data>
+  <data key="d5">-112.2593093</data>
+  <data key="d6">Tolleson</data>
+  <data key="d7">AZ</data>
+</node>
+<node id="Sarasota, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">27.3364347</data>
+  <data key="d5">-82.5306527</data>
+  <data key="d6">Sarasota</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Highland Park, NJ">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.4959379</data>
+  <data key="d5">-74.4243178</data>
+  <data key="d6">Highland Park</data>
+  <data key="d7">NJ</data>
+</node>
+<node id="Northwestern">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Arlington Heights, IL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">42.0811563</data>
+  <data key="d5">-87.9802164</data>
+  <data key="d6">Arlington Heights</data>
+  <data key="d7">IL</data>
+</node>
+<node id="Arizona State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Avondale, AZ">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.4354989</data>
+  <data key="d5">-112.3495572</data>
+  <data key="d6">Avondale</data>
+  <data key="d7">AZ</data>
+</node>
+<node id="Mesa, AZ">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.4151117</data>
+  <data key="d5">-111.8314773</data>
+  <data key="d6">Mesa</data>
+  <data key="d7">AZ</data>
+</node>
+<node id="Decatur, AL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.6060203</data>
+  <data key="d5">-86.9838165</data>
+  <data key="d6">Decatur</data>
+  <data key="d7">AL</data>
+</node>
+<node id="NC State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Deerfield Beach, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">26.318342</data>
+  <data key="d5">-80.0996306</data>
+  <data key="d6">Deerfield Beach</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Lakeland, FL">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">28.0394654</data>
+  <data key="d5">-81.9498042</data>
+  <data key="d6">Lakeland</data>
+  <data key="d7">FL</data>
+</node>
+<node id="Michigan State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Marshfield, MA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">42.091769</data>
+  <data key="d5">-70.7055941</data>
+  <data key="d6">Marshfield</data>
+  <data key="d7">MA</data>
+</node>
+<node id="Lyons, GA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.2043546</data>
+  <data key="d5">-82.321791</data>
+  <data key="d6">Lyons</data>
+  <data key="d7">GA</data>
+</node>
+<node id="Tulsa, OK">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">36.1556805</data>
+  <data key="d5">-95.9929113</data>
+  <data key="d6">Tulsa</data>
+  <data key="d7">OK</data>
+</node>
+<node id="Mississippi State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Clinton, MS">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">32.3415342</data>
+  <data key="d5">-90.3217585</data>
+  <data key="d6">Clinton</data>
+  <data key="d7">MS</data>
+</node>
+<node id="Colorado State">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Denver, CO">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">39.7392364</data>
+  <data key="d5">-104.9848623</data>
+  <data key="d6">Denver</data>
+  <data key="d7">CO</data>
+</node>
+<node id="Florida">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Nashville, TN">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">36.1622296</data>
+  <data key="d5">-86.7743531</data>
+  <data key="d6">Nashville</data>
+  <data key="d7">TN</data>
+</node>
+<node id="Boston College">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Morrisville, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.2114978</data>
+  <data key="d5">-74.7879399</data>
+  <data key="d6">Morrisville</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Beaverton, OR">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">45.4871723</data>
+  <data key="d5">-122.8037804</data>
+  <data key="d6">Beaverton</data>
+  <data key="d7">OR</data>
+</node>
+<node id="McKinney, TX">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">33.1976496</data>
+  <data key="d5">-96.6154471</data>
+  <data key="d6">McKinney</data>
+  <data key="d7">TX</data>
+</node>
+<node id="Exton, PA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">40.0289955</data>
+  <data key="d5">-75.6207651</data>
+  <data key="d6">Exton</data>
+  <data key="d7">PA</data>
+</node>
+<node id="Vanderbilt">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Santa Monica, CA">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">34.0250724</data>
+  <data key="d5">-118.4965129</data>
+  <data key="d6">Santa Monica</data>
+  <data key="d7">CA</data>
+</node>
+<node id="Middle Tennessee">
+  <data key="d0">0</data>
+  <data key="d1">School</data>
+  <data key="d2">Unknown</data>
+  <data key="d3">Unknown</data>
+  <data key="d4">0.0</data>
+  <data key="d5">0.0</data>
+</node>
+<node id="Gaffney, SC">
+  <data key="d0">1</data>
+  <data key="d1">Hometown</data>
+  <data key="d4">35.0717945</data>
+  <data key="d5">-81.6498195</data>
+  <data key="d6">Gaffney</data>
+  <data key="d7">SC</data>
+</node>
+<edge source="Virginia Tech" target="Springfield, PA">
+  <data key="d8">Kevin Jones</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9992</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Virginia Tech" target="Harrisburg, PA">
+  <data key="d8">Fred Lee</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9683</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Virginia Tech" target="Williamsburg, VA">
+  <data key="d8">Bryan Randall</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.9679</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Alabama" target="Rainbow City, AL">
+  <data key="d8">Brodie Croyle</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9986</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Clemson" target="Union, SC">
+  <data key="d8">Roscoe Crosby</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9978</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Clemson" target="Columbia, SC">
+  <data key="d8">Airese Currie</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9839</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Washington" target="Lakewood, WA">
+  <data key="d8">Reggie Williams</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9976</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Washington" target="Boca Raton, FL">
+  <data key="d8">Charles Frederick</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9819</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Washington" target="New Lenox, IL">
+  <data key="d8">Casey Paus</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9711</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="USC" target="Hacienda Heights, CA">
+  <data key="d8">Shaun Cody</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9974</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="USC" target="Santa Ana, CA">
+  <data key="d8">Matt Leinart</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9789</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="Killeen, TX">
+  <data key="d8">Tommie Harris</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9966</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="Shawnee, OK">
+  <data key="d8">Seymore Shaw</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9783</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="Shreveport, LA">
+  <data key="d8">Brent Rawls</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9743</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="Texarkana, TX">
+  <data key="d8">Brandon Jones</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9715</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="Houston, TX">
+  <data key="d8">Jonathan Jackson</data>
+  <data key="d9">SDE</data>
+  <data key="d10">0.9618</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oklahoma" target="McKinney, TX">
+  <data key="d8">Donta Hickson</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9606</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="Baton Rouge, LA">
+  <data key="d8">Marcus Spears | Michael Clayton</data>
+  <data key="d9">DT | WR</data>
+  <data key="d10">0.9964 | 0.9924</data>
+  <data key="d11">5 | 5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL | RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">2</data>
+</edge>
+<edge source="LSU" target="New Orleans, LA">
+  <data key="d8">Marquise Hill</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9958</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="Hemphill, TX">
+  <data key="d8">Ben Wilkerson</data>
+  <data key="d9">OC</data>
+  <data key="d10">0.9944</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="West Monroe, LA">
+  <data key="d8">Andrew Whitworth</data>
+  <data key="d9">OG</data>
+  <data key="d10">0.9847</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="Houston, TX">
+  <data key="d8">Joseph Addai</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9771</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="Marrero, LA">
+  <data key="d8">Shyrone Carey</data>
+  <data key="d9">ATH</data>
+  <data key="d10">0.9709</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="LSU" target="Monroe, LA">
+  <data key="d8">Rudy Niswanger</data>
+  <data key="d9">OC</data>
+  <data key="d10">0.9691</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Tucker, GA">
+  <data key="d8">Jabari Davis</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9958</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Concord, CA">
+  <data key="d8">Kevin Simon</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.991</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Clarendon, AR">
+  <data key="d8">Cedric Houston</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9878</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Marietta, GA">
+  <data key="d8">Derrick Tinsley</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9839</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Charlotte, NC">
+  <data key="d8">Robert Boulware</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9827</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Virginia Beach, VA">
+  <data key="d8">C.J. Fayton</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9723</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Tennessee" target="Louisville, KY">
+  <data key="d8">Montrell Jones</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9721</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Stanford" target="La Quinta, CA">
+  <data key="d8">Michael Craven</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9954</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Stanford" target="Tyrone, GA">
+  <data key="d8">J.R. Lemon</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9833</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Stanford" target="Lewistown, MT">
+  <data key="d8">Mark Anderson</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9769</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Miami" target="Brooklyn, NY">
+  <data key="d8">Leon Williams</data>
+  <data key="d9">ILB</data>
+  <data key="d10">0.9952</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Miami" target="Homestead, FL">
+  <data key="d8">Antrel Rolle</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9805</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Miami" target="Newark, DE">
+  <data key="d8">Orien Harris</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9801</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Miami" target="Miami, FL">
+  <data key="d8">Frank Gore</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9711</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Portage, MI">
+  <data key="d8">Kelly Baraka</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9944</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Detroit, MI">
+  <data key="d8">Ernest Shazor</data>
+  <data key="d9">S</data>
+  <data key="d10">0.9922</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Sharon, PA">
+  <data key="d8">Marlin Jackson</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9857</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Cleveland, OH">
+  <data key="d8">Pierre Woods | Pat Massey</data>
+  <data key="d9">SDE | SDE</data>
+  <data key="d10">0.9831 | 0.9793</data>
+  <data key="d11">4 | 4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL | RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">2</data>
+</edge>
+<edge source="Michigan" target="Allentown, PA">
+  <data key="d8">Tim Massaquoi</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9819</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Belle Vernon, PA">
+  <data key="d8">Scott McClintock</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9719</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Michigan" target="Madisonville, TX">
+  <data key="d8">David Underwood</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9687</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arkansas" target="Atlanta, GA">
+  <data key="d8">Ahmad Carroll</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9942</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arkansas" target="West Memphis, AR">
+  <data key="d8">De'Arrius Howard</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9819</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arkansas" target="Camden, AR">
+  <data key="d8">Shawn Andrews</data>
+  <data key="d9">OG</data>
+  <data key="d10">0.9755</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arkansas" target="Sheridan, AR">
+  <data key="d8">Jeb Huckeba</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9731</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Atlanta, GA" target="Georgia">
+  <data key="d8">D.J. Shockley</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.9926</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Auburn" target="Attalla, AL">
+  <data key="d8">Carnell Williams</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9936</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Auburn" target="Fulton, MS">
+  <data key="d8">Lemarcus Rowell</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9845</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Auburn" target="Chatham, VA">
+  <data key="d8">Anthony Mix</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9675</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Auburn" target="Lakeland, FL">
+  <data key="d8">Wayne Dickens</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9651</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Diamond Bar, CA">
+  <data key="d8">Dominic Robinson</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9936</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Saint Paul, MN">
+  <data key="d8">Joe Mauer</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9928</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Lexington, KY">
+  <data key="d8">Eric Shelton</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9922</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Jacksonville, FL">
+  <data key="d8">Ron Lunford | Gerard Ross</data>
+  <data key="d9">OT | CB</data>
+  <data key="d10">0.9855 | 0.9803</data>
+  <data key="d11">5 | 4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL | RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">2</data>
+</edge>
+<edge source="Florida State" target="Lake City, FL">
+  <data key="d8">Jerome Carter</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9851</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Tallahassee, FL">
+  <data key="d8">Craphonso Thorpe</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9827</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Bradenton, FL">
+  <data key="d8">Adrian McPherson</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.9807</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Opa Locka, FL">
+  <data key="d8">Willie Jones</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9767</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Ellisville, MS">
+  <data key="d8">Chauncey Davis</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9735</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida State" target="Sarasota, FL">
+  <data key="d8">James Buchanan</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9671</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Georgia" target="Waycross, GA">
+  <data key="d8">Fred Gibson</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9811</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Georgia" target="Chatham, VA">
+  <data key="d8">Marquis Elmore</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9743</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ole Miss" target="Madison, MS">
+  <data key="d8">Chris Spencer</data>
+  <data key="d9">OC</data>
+  <data key="d10">0.9922</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ole Miss" target="Decatur, AL">
+  <data key="d8">Taye Biddle</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9655</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Detroit, MI" target="Michigan State">
+  <data key="d8">Robert Strickland</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9651</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Syracuse" target="McKeesport, PA">
+  <data key="d8">Cecil Howard</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.992</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="UCLA" target="Los Angeles, CA">
+  <data key="d8">Matt Ware</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9906</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="UCLA" target="Lake Elsinore, CA">
+  <data key="d8">Robert Cleary</data>
+  <data key="d9">OG</data>
+  <data key="d10">0.9747</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="UCLA" target="Mesa, AZ">
+  <data key="d8">Junior Taylor</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9655</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="UCLA" target="Exton, PA">
+  <data key="d8">Keith Carter</data>
+  <data key="d9">TE</data>
+  <data key="d10">0.9606</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Wisconsin" target="Hamden, CT">
+  <data key="d8">Anttaj Hawthorne</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9896</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Wisconsin" target="Wheaton, IL">
+  <data key="d8">Brett Bell</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9735</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Notre Dame" target="Eden Prairie, MN">
+  <data key="d8">Mark LeVoir</data>
+  <data key="d9">OT</data>
+  <data key="d10">0.9884</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Notre Dame" target="Chicago, IL">
+  <data key="d8">Corey Mays</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9795</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Notre Dame" target="Hampton, VA">
+  <data key="d8">Carlos Campbell</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9707</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Notre Dame" target="Marshfield, MA">
+  <data key="d8">Zachary Giles</data>
+  <data key="d9">OC</data>
+  <data key="d10">0.9647</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Virginia" target="Richmond, VA">
+  <data key="d8">Patrick Estes</data>
+  <data key="d9">TE</data>
+  <data key="d10">0.9871</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Richmond, VA" target="Penn State">
+  <data key="d8">Michael Robinson</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.9663</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Texas A&amp;M" target="Jacksonville, TX">
+  <data key="d8">Jami Hightower</data>
+  <data key="d9">OT</data>
+  <data key="d10">0.9863</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Texas" target="Midland, TX">
+  <data key="d8">Cedric Benson</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9861</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Texas" target="Waco, TX">
+  <data key="d8">Derrick Johnson</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9779</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Texas" target="Dallas, TX">
+  <data key="d8">Jonathan Scott</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9767</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Texas" target="Mart, TX">
+  <data key="d8">Quan Cosby</data>
+  <data key="d9">ATH</data>
+  <data key="d10">0.9739</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="California" target="Albany, CA">
+  <data key="d8">Lorenzo Alexander</data>
+  <data key="d9">SDE</data>
+  <data key="d10">0.9861</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Iowa" target="Atlantic, IA">
+  <data key="d8">Blake Larsen</data>
+  <data key="d9">OT</data>
+  <data key="d10">0.9857</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Iowa" target="Villa Park, IL">
+  <data key="d8">Matt Roth</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9855</data>
+  <data key="d11">5</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oregon State" target="Scappoose, OR">
+  <data key="d8">Derek Anderson</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9827</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oregon State" target="Las Vegas, NV">
+  <data key="d8">Steven Jackson</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9743</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ohio State" target="Tampa, FL">
+  <data key="d8">Lydell Ross</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9815</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ohio State" target="Ironton, OH">
+  <data key="d8">Reggie Arden</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9787</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ohio State" target="Columbus, OH">
+  <data key="d8">Maurice Hall | Simon Fraser</data>
+  <data key="d9">RB | SDE</data>
+  <data key="d10">0.9749 | 0.9703</data>
+  <data key="d11">4 | 4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL | RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">2</data>
+</edge>
+<edge source="Ohio State" target="Dayton, OH">
+  <data key="d8">Angelo Chattams</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9681</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Ohio State" target="Canton, OH">
+  <data key="d8">Dustin Fox</data>
+  <data key="d9">S</data>
+  <data key="d10">0.9675</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Kansas State" target="Compton, CA">
+  <data key="d8">Marvin Simmons</data>
+  <data key="d9">OLB</data>
+  <data key="d10">0.9787</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Kansas State" target="Highland Park, NJ">
+  <data key="d8">Ayo Saba</data>
+  <data key="d9">FB</data>
+  <data key="d10">0.9667</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Kansas State" target="Tulsa, OK">
+  <data key="d8">Jerome Janet</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9635</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="South Carolina" target="Conway, SC">
+  <data key="d8">George Gause</data>
+  <data key="d9">SDE</data>
+  <data key="d10">0.9775</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="South Carolina" target="Lyons, GA">
+  <data key="d8">Thez Robinson</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9643</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Oregon" target="Burns, OR">
+  <data key="d8">Kellen Clemens</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9769</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Missouri" target="Coffeyville, KS">
+  <data key="d8">Damien Nash</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9769</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Dallas, TX" target="Northwestern">
+  <data key="d8">Thomas Derricks</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9635</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Memphis" target="Memphis, TN">
+  <data key="d8">Derron Johnson</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9759</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Colorado" target="Thornton, CO">
+  <data key="d8">Russell Lovett</data>
+  <data key="d9">ATH</data>
+  <data key="d10">0.9751</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Penn State" target="Erie, PA">
+  <data key="d8">Charles Rush</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9747</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Penn State" target="Clairton, PA">
+  <data key="d8">Tyler Reed</data>
+  <data key="d9">OG</data>
+  <data key="d10">0.9737</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="North Carolina" target="Asheboro, NC">
+  <data key="d8">Jocques Dumas</data>
+  <data key="d9">SDE</data>
+  <data key="d10">0.9739</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Pittsburgh" target="Minneapolis, MN">
+  <data key="d8">Larry Fitzgerald</data>
+  <data key="d9">WR</data>
+  <data key="d10">0.9703</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Nebraska" target="Omaha, NE">
+  <data key="d8">Titus Adams</data>
+  <data key="d9">SDE</data>
+  <data key="d10">0.9691</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Illinois" target="Urbana, IL">
+  <data key="d8">Morris Virgil</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9683</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Purdue" target="Des Moines, IA">
+  <data key="d8">Kyle Orton</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9681</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arizona" target="Tolleson, AZ">
+  <data key="d8">Mike Bell</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9671</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arizona" target="Beaverton, OR">
+  <data key="d8">Nic Costa</data>
+  <data key="d9">DUAL</data>
+  <data key="d10">0.961</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Northwestern" target="Arlington Heights, IL">
+  <data key="d8">Brett Basanez</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9667</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Arizona State" target="Avondale, AZ">
+  <data key="d8">Lamar Baker</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9663</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="NC State" target="Deerfield Beach, FL">
+  <data key="d8">Tramain Hall</data>
+  <data key="d9">CB</data>
+  <data key="d10">0.9651</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Mississippi State" target="Clinton, MS">
+  <data key="d8">Clarence McDougal</data>
+  <data key="d9">S</data>
+  <data key="d10">0.9635</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Colorado State" target="Denver, CO">
+  <data key="d8">Justin Holland</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9631</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Florida" target="Nashville, TN">
+  <data key="d8">Ingle Martin</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9618</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Boston College" target="Morrisville, PA">
+  <data key="d8">Brandon Brokaw</data>
+  <data key="d9">RB</data>
+  <data key="d10">0.9614</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Vanderbilt" target="Santa Monica, CA">
+  <data key="d8">David Koral</data>
+  <data key="d9">PRO</data>
+  <data key="d10">0.9602</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+<edge source="Middle Tennessee" target="Gaffney, SC">
+  <data key="d8">Jeff Littlejohn</data>
+  <data key="d9">DT</data>
+  <data key="d10">0.9382</data>
+  <data key="d11">4</data>
+  <data key="d12">RecruitClassification.HIGHSCHOOL</data>
+  <data key="d13">1</data>
+</edge>
+</graph></graphml>
