@@ -10,7 +10,7 @@
 <key id="d5" for="node" attr.name="longitude" attr.type="double"/>
 <key id="d4" for="node" attr.name="latitude" attr.type="double"/>
 <key id="d3" for="node" attr.name="conference" attr.type="string"/>
-<key id="d2" for="node" attr.name="classification" attr.type="string"/>
+<key id="d2" for="node" attr.name="classifddication" attr.type="string"/>
 <key id="d1" for="node" attr.name="type" attr.type="string"/>
 <key id="d0" for="node" attr.name="bipartite" attr.type="long"/>
 <graph edgedefault="undirected"><node id="Clemson">
