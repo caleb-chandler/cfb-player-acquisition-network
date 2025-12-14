@@ -4,8 +4,6 @@ An in-depth network analysis of college football player movement, contrasting tr
 
 ## Project Overview
 
-Consists of two main parts:
-
 **Recruiting Network:** A set of bipartite graphs representing connections between schools and hometowns via recruits for each year from 2000-2026. Used to generate a projected network linking schools to one another via shared recruiting grounds.
 
 **Transfer Portal Network:** A directed flow network of transfers moving between schools. 2021-2026.
@@ -14,12 +12,12 @@ This repository contains the code to gather data, build these networks, calculat
 
 ## Repository Structure
 
-data.ipynb: Fetches raw data from the CollegeFootballData API. Collects recruiting commits, transfer portal activity, rosters, and team/player performance metrics (PPA, FPI, SRS).
+*data.ipynb:* Fetches raw data from the CollegeFootballData API. Collects recruiting commits, transfer portal activity, rosters, and team/player performance metrics (PPA, FPI, SRS).
 
-cleaning.ipynb: Preprocesses raw data. Handles multi-player transfer edges, imputes missing player ratings based on star-counts, and prepares edge lists for NetworkX.
+*cleaning.ipynb:* Preprocesses raw data. Handles multi-player transfer edges, imputes missing player ratings based on star-counts, and prepares edge lists for NetworkX.
 
-analysis.ipynb: The core computational notebook where the resulting data is analyzed.
+*analysis.ipynb:* The core computational notebook where the resulting data is analyzed.
 
-gephi-projects/: .gephi files used for creating the network visualizations found in the report.
+*gephi-projects/:* .gephi files used for creating the network visualizations found in the report.
 
-imgs/: Output directory for plots and graphs.
+*imgs/:* Output directory for plots and graphs.
