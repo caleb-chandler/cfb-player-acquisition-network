@@ -6,7 +6,7 @@ An in-depth network analysis of college football player movement, contrasting tr
 
 **Recruiting Network:** A set of bipartite graphs representing connections between schools and hometowns via recruits for each year from 2000-2026. Used to generate a projected network linking schools to one another via shared recruiting grounds.
 
-**Transfer Portal Network:** A directed flow network of transfers moving between schools. 2021-2026.
+**Transfer Portal Network:** A directed flow network of transfers moving between schools (2021-2025).
 
 This repository contains the code to gather data, build these networks, calculate advanced topology metrics, generate null models for statistical validation, and visualize the results.
 
