@@ -1,6 +1,6 @@
 # College Football Player Acquisition Network Analysis
 
-An in-depth network analysis of college football player movement, contrasting traditional high school recruiting with the modern transfer portal era. Utilizes graph theory to quantify structural differences between these two acquisition mechanisms and evaluates the strategic impact of the transfer portal on team performance.
+An in-depth network analysis of college football player movement, including traditional high school recruiting along with the transfer portal. Utilizes graph theory to quantify structural differences between these two acquisition mechanisms and evaluates the strategic impact of the transfer portal on team performance.
 
 ## Project Overview
 
